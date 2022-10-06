@@ -1,0 +1,12 @@
+D:\Examples\InterviewProblems\InterviewProblems\bin\Debug\InterviewProblems.exe
+D:\Examples\InterviewProblems\InterviewProblems\bin\Debug\InterviewProblems.pdb
+D:\Examples\InterviewProblems\InterviewProblems\obj\x86\Debug\InterviewProblems.exe
+D:\Examples\InterviewProblems\InterviewProblems\obj\x86\Debug\InterviewProblems.pdb
+\\softdev\Software\Interview Code\InterviewProblems\InterviewProblems\obj\x86\Debug\InterviewProblems.exe
+\\softdev\Software\Interview Code\InterviewProblems\InterviewProblems\obj\x86\Debug\InterviewProblems.pdb
+C:\Users\ryan_\Documents\InterviewProblems\InterviewProblems\bin\Debug\InterviewProblems.exe
+C:\Users\ryan_\Documents\InterviewProblems\InterviewProblems\bin\Debug\InterviewProblems.pdb
+C:\Users\ryan_\Documents\InterviewProblems\InterviewProblems\obj\x86\Debug\InterviewProblems.csprojAssemblyReference.cache
+C:\Users\ryan_\Documents\InterviewProblems\InterviewProblems\obj\x86\Debug\InterviewProblems.csproj.CoreCompileInputs.cache
+C:\Users\ryan_\Documents\InterviewProblems\InterviewProblems\obj\x86\Debug\InterviewProblems.exe
+C:\Users\ryan_\Documents\InterviewProblems\InterviewProblems\obj\x86\Debug\InterviewProblems.pdb
